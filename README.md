@@ -1,16 +1,25 @@
-### Hi there 👋
+# About me
 
-<!--
-**rogeriolino/rogeriolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Rogerio Lino and I'm a computer scientist with over 15 years experience working as fullstack developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Opensource projects
+
+### OnceOn.ly
+
+[teramundi/onceonly](https://github.com/teramundi/onceonly) / https://onceon.ly/
+
+Securely share content that will self-destruct on first access.
+
+### Novo SGA
+
+[novosga/novosga](https://github.com/novosga/novosga) / https://novosga.org/
+
+Support queue management system. Attendance ticket control.
+
+
+### Mangati
+
+[mangati/*](https://github.com/orgs/mangati/repositories)
+
+A lot of utilities projects
